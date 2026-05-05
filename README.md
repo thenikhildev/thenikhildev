@@ -1,16 +1,41 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Nikhil</h1>
+<h3 align="center">Software Engineer | Shopify Frontend Developer</h3>
 
-<!--
-**thenikhildev/thenikhildev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 About Me
+- 💼 Software Engineer with **5+ years of experience**
+- 🛒 Specialized in **Shopify Frontend Development**
+- 💻 Skilled in **HTML, CSS, JavaScript**
+- 🎯 Focused on building **clean, user-friendly & high-performing websites**
+- 🌱 Currently exploring **advanced Shopify & performance optimization**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack
+- 🌐 HTML | CSS | JavaScript
+- 🛒 Shopify (Liquid, Theme Customization)
+- ⚙️ Git & GitHub
+- 🎨 Responsive Design
+
+---
+
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=thenikhildev&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thenikhildev&theme=tokyonight" />
+</p>
+
+---
+
+### 📫 Connect With Me
+- 💼 LinkedIn: https://github.com/thenikhildev
+- 📧 Email: nikhilrathore0509@gmail.com
+
+---
+
+### ✨ Quote
+> "Code is not just code, it's a solution to real-world problems."
